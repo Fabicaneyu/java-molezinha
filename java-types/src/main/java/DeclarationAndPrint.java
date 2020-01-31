@@ -10,8 +10,7 @@ public class DeclarationAndPrint{
         int i = 10;
         System.out.println(i);
 
-        int j=10, x = 10;
-
+        int j = 10,x = 10;
         System.out.println("J:" + j + ", X:"+x);
 
     }
